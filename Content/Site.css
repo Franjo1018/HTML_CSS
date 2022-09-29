@@ -27,9 +27,9 @@ textarea {
 }
 
 #fondo {
-    color: white;
+    color: orangered;
     height: 400px;
-    background-color: peru;
+    background-color: orangered;
     background-image: url('FondoH.jpg');
     background-size: cover;
 }
